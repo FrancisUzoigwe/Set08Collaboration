@@ -22,5 +22,9 @@ process.on("unhandledRejection", (reason) => {
 });
 
 
+console.log("first");
+
+
 console.log(process);
 console.log("Hello World");
+
