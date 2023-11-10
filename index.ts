@@ -20,3 +20,6 @@ process.on("unhandledRejection", (reason) => {
     process.exit(1);
   });
 });
+
+
+console.log(process);
